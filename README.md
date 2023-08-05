@@ -1,4 +1,4 @@
-# Analisis de Datos
+# Analisis de Datos / Ciencia de Datos
 Aquí se presentan proyectos personales sobre csv trabajados en 
 PowerBI, 
 GoogleColabs,
